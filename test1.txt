@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is DAB0-DD6E
+
+ Directory of C:\Users\venkatesh\Desktop\Test
+
+10/09/2019  12:16 AM    <DIR>          .
+10/09/2019  12:16 AM    <DIR>          ..
+10/09/2019  12:16 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  436,416,581,632 bytes free
